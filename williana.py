@@ -1,1 +1,0 @@
-print("arreglando error de tomas")
