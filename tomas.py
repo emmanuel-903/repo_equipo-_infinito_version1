@@ -1,7 +1,3 @@
 
 print("Tomás Aravena b")
-
-
-
-
-print ("segundo commit mariana")
+print("tercer cambio osvaldo")
